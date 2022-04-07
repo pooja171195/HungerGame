@@ -1,0 +1,14 @@
+.box {
+  border-radius: 30px;
+  margin: auto;
+  margin-bottom: 10px;
+  max-width: 700px;
+}
+.innerbox {
+  display: flex;
+  border: 5px solid #f3f3f3;
+  flex-direction: row;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 30px;
+}
